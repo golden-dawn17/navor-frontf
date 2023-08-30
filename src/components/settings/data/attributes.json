@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "MFA",
+    "type": "binary",
+    "label": "iam",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "2",
+    "name": "Data Retention",
+    "type": "multi_class",
+    "label": "security_and_privacy",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "3",
+    "name": "MFA",
+    "type": "binary",
+    "label": "iam",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "4",
+    "name": "Data Retention",
+    "type": "multi_class",
+    "label": "compliance",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "5",
+    "name": "Data Retention",
+    "type": "binary",
+    "label": "security_and_privacy",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "6",
+    "name": "MFA",
+    "type": "binary",
+    "label": "iam",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "7",
+    "name": "Data Retention",
+    "type": "multi_class",
+    "label": "compliance",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "8",
+    "name": "MFA",
+    "type": "binary",
+    "label": "security_and_privacy",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "9",
+    "name": "MFA",
+    "type": "multi_class",
+    "label": "compliance",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "10",
+    "name": "MFA",
+    "type": "multi_class",
+    "label": "iam",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "11",
+    "name": "Data Retention",
+    "type": "multi_class",
+    "label": "compliance",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "12",
+    "name": "Data Retention",
+    "type": "binary",
+    "label": "security_and_privacy",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"llm"
+  },
+  {
+    "id": "13",
+    "name": "MFA",
+    "type": "multi_class",
+    "label": "iam",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  },
+  {
+    "id": "14",
+    "name": "Data Retention",
+    "type": "binary",
+    "label": "security_and_privacy",
+    "bing_query": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "document_query":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, eum?",
+    "model":"sbert"
+  }
+]

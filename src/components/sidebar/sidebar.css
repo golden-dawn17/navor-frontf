@@ -1,0 +1,123 @@
+/* Import Google font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.sidebar {
+  width: 13rem;
+  height: 109%;
+  background-color: #E4E4E7;
+  padding: 1rem;
+  transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+  position: relative;
+}
+
+.layout{
+  display: flex;
+  height: 100%;
+  position: relative;
+}
+
+aside{
+  position: relative;
+}
+
+.sidebar__top {
+  width: max-content;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.sidebar__bottom {
+  width: max-content;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  position: absolute;
+  bottom: 0;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #333333;
+  padding-left: 0.7rem;
+  padding-top: 0.7rem;
+  padding-bottom: 2rem;
+}
+
+.sidebar__logo {
+  width: 3rem;
+  height: 2.7rem;
+}
+
+.sidebar__list {
+}
+
+.sidebar__link {
+  display: inline-block;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #333333;
+  padding-left: 0.9rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  display: flex;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.sidebar__link1 {
+  display: inline-block;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #333333;
+  padding-left: 1rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  display: flex;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: #333333;
+}
+
+.sidebar__link:hover{
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.sidebar__icon {
+  font-size: 1.2rem;
+  display: inline-block;
+}
+
+.sidebar__name {
+  margin-left: 0.5rem;
+}
+
+.sidebar__logo-name {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.sidebar__wrapper {
+  position: relative;
+}
+
+[data-collapse="true"] {
+  width: 5.3rem;
+}
+
+[data-collapse="true"] .sidebar__name,
+[data-collapse="true"] .sidebar__logo-name {
+  display: none;
+}
