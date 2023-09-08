@@ -7,6 +7,8 @@ import { Button } from "../ui/button"
 import { Input } from "../ui/input"
 import { DataTableAdd } from "./data-table-add"
 import { DataTableFacetedFilter } from "./data-table-faceted-filter"
+import { DataTableAttributes } from "./data-table-attributes"
+import { DataTableRun } from "./data-table-run"
 
 interface DataTableToolbarProps<TData> {
   table: Table<TData>
@@ -59,6 +61,8 @@ export function DataTableToolbar<TData>({
           />
         )}
       </div>
+      <DataTableRun table={table} />
+      <DataTableAttributes/>
       <DataTableAdd table={table} />
     </div>
   )

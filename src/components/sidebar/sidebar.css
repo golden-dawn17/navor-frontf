@@ -13,7 +13,7 @@ body {
 
 .sidebar {
   width: 13rem;
-  height: 109%;
+  height: 100vh;
   background-color: #E4E4E7;
   padding: 1rem;
   transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);

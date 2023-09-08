@@ -26,7 +26,7 @@ export function DataTableAdd<TData>({ table }: DataTableAddProps<TData>) {
           variant="outline"
           size="sm"
           className="ml-auto hidden h-8 lg:flex"
-          style={{ background: "black", color: "white" }}
+          style={{ background: "#333333", color: "white" }}
         >
           <PlusIcon className="mr-1 h-4 w-4" />
           <p style={{ fontSize: "12px" }}>Add</p>
